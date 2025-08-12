@@ -12,6 +12,7 @@ This project utilizes rest area shelter parking sensor data to propose optimal s
 ## Implementation
 - 'analysis.R' : Analysis changes in parking availability by year and hour through statistical tests and visualizations, and compares machine learning model
 - 'arima.R' : Converts parking availability data into a time series format, applies ARIMA-based forecasting, and visualized evaluation metrics
+
 **Note** : Due to the system's limitations, raw data from designated safe zones cannot be disclosed.
   The uploaded scripts contain only the code used for analysis during the competition.
 
